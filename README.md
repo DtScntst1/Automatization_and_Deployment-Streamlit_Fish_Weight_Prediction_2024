@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
 
-![App Mockup](https://files.catbox.moe/mlgigf.png)
+![App Mockup](https://files.catbox.moe/xl39bm.png)
 
 A Machine Learning web application predicting fish weight from physical dimensions (length, height, width).
 
